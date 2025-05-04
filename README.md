@@ -11,6 +11,8 @@ Alongside, I'm also pursuing my B.Sc. in Data Science and its Applications from 
 
 🎨 I am also interested in video games and Painting🖌️
 
+---
+
 ## 💻 Tech Stack
 
 ### 🧠 Languages & Scripting  
@@ -48,8 +50,9 @@ Alongside, I'm also pursuing my B.Sc. in Data Science and its Applications from 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2C5CFF?style=for-the-badge&logo=powershell&logoColor=white)
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiJain17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 <h2 style="text-align: center;">👩‍💻 Repositories 👩‍💻</h2>
 <p align="center">
