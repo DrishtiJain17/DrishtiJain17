@@ -56,9 +56,6 @@ Alongside, I'm also pursuing my B.Sc. in Data Science and its Applications from 
 
 <h2 style="text-align: center;">👩‍💻 Repositories 👩‍💻</h2>
 <p align="center">
-  <a href="https://github.com/DrishtiJain17/MoodBoard-AI">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=DrishtiJain17&repo=MoodBoard-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="MoodBoard AI: generate a moodboard to reflect on your emotions!" />
-  </a>
   <a href="https://github.com/DrishtiJain17/timestamp-organizer">
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=DrishtiJain17&repo=timestamp-organizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Timestamp Organizer" />
   </a>
