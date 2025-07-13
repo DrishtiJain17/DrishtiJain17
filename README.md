@@ -5,11 +5,9 @@ I am Drishti Jain, a CS undergraduate student at ABES Engineering College pursui
 
 Alongside, I'm also pursuing my B.Sc. in Data Science and its Applications from the Indian Institute of Technology, Madras, where I'm learning Data Science and programming concepts, including Programming and data structures using Python, Programming in Java, System Commands, Tools in Data Science, Modern Application development, Business Analytics, etc.
 
-💻 My interests lie within the field of AI, Machine Learning & Data Science
+💻 My interests lie within the field of Web Development, AI, Machine Learning & Data Science
 
-🎶 Outside my academic and professional pursuits, I am passionate about music, having played the piano in my high school band.
-
-🎨 I am also interested in video games and Painting🖌️
+🎨 I like playing video games and do painting!🖌️
 
 ---
 
