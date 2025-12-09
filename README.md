@@ -1,8 +1,8 @@
 
 # <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there, I'm Drishti Jain
 
-I'm a Computer Science undergraduate at **ABES Engineering College**, specializing in **Data Science**.  
-I'm also pursuing a **B.Sc. in Data Science and Applications** from **IIT Madras**, where I'm learning programming and data analysis techniques.
+I'm a **Computer Science** undergrad specializing in **Data Science**, at ABES Engineering College.  
+I'm also pursuing a **B.S. in Data Science and Applications** from **IIT Madras**, where I'm learning programming and data analysis techniques.
 
 ---
 
@@ -13,7 +13,7 @@ I'm also pursuing a **B.Sc. in Data Science and Applications** from **IIT Madras
 - **Data Science & Analytics**
 - **Web Development**
 
-Outside of tech, I enjoy playing video games and writing.
+Outside of tech, I enjoy playing PC games and writing short comics :)
 
 ---
 
