@@ -74,9 +74,3 @@ Outside of tech, I enjoy playing video games and writing.
 ![PowerShell](https://img.shields.io/badge/PowerShell-2C5CFF?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiJain17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
